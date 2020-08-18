@@ -25,16 +25,17 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Drone.git`
 * `cd Drone`
-## ` Execution > ` `python3 drone`
+## ` Execution > ` `python3 drone -v  @ip de la cible`
 
-## ` NOM D'UTILISATEUR : Faxel    `
-## ` MOT DE PASSE      : 08127934 `
+## ` Exemple >`
 
+* ` Maroc  :` `python3 drone -v 160.168.208.235 `
+* ` Madrid :` `python3 drone -v 45.152.183.210  `
+* ` Netherlands :` `python3 drone -v 2.58.194.145 `
 ##  `Commande unique de Drone`:
 ```
-apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; python3 drone 
+apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; ls  
 ```
-
 ##  `Cautions`:
 ```
 Cet outil est uniquement à des fins éducatives. Si vous utilisez cet outil à d'autres fins que l'éducation, nous ne serons pas responsables dans de tels cas.
