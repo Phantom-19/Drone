@@ -30,8 +30,8 @@
 ## ` Exemple >`
 
 * ` Maroc  :` `python3 drone -v 160.168.208.235 `
-* ` Madrid :` `python3 drone -v 45.152.183.210  `
-* ` Netherlands :` `python3 drone -v 2.58.194.145 `
+* ` Espagne :` `python3 drone -v 45.152.183.210  `
+* ` Kesteren :` `python3 drone -v 2.58.194.145  `
 ##  `Commande unique de Drone`:
 ```
 apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; ls  
