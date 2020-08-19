@@ -25,16 +25,16 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Drone.git`
 * `cd Drone`
-## ` Execution > ` `python3 drone -v  @ip de la cible`
+## ` Execution > ` `python3 drone.py -v  @ip de la cible`
 
 ## ` Exemple >`
 
-* ` Maroc  :` `python3 drone -v 160.168.208.235 `
-* ` Espagne :` `python3 drone -v 45.152.183.210  `
-* ` Kesteren :` `python3 drone -v 2.58.194.145  `
+* ` Maroc  :` `python3 drone.py -v 160.168.208.235 `
+* ` Espagne :` `python3 drone.py -v 45.152.183.210  `
+* ` Kesteren :` `python3 drone.py -v 2.58.194.145  `
 ##  `Commande unique de Drone`:
 ```
-apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; ls  
+apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; python3 drone.py - v 192.165.2.3 
 ```
 ##  `Cautions`:
 ```
