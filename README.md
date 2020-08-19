@@ -36,6 +36,12 @@
 ```
 apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; python3 drone.py - v 192.165.2.3 
 ```
+
+## ` Aperçue > `
+<p align="center">
+<img alt="profile pic" width="600px" src="https://github.com/Phantom-19/Drone/blob/master/capture/drone.png"/> 
+</p>
+
 ##  `Cautions`:
 ```
 Cet outil est uniquement à des fins éducatives. Si vous utilisez cet outil à d'autres fins que l'éducation, nous ne serons pas responsables dans de tels cas.
