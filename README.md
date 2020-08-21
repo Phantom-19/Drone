@@ -25,16 +25,16 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Drone.git`
 * `cd Drone`
-## ` Execution > ` `python3 drone.py -v  @ip de la cible`
+## ` Execution > ` `python2 drone.py -v  @ip de la cible`
 
 ## ` Exemple >`
 
-* ` Maroc  :` `python3 drone.py -v 160.168.208.235 `
-* ` Espagne :` `python3 drone.py -v 45.152.183.210  `
-* ` Kesteren :` `python3 drone.py -v 2.58.194.145  `
+* ` Maroc  :` `python2 drone.py -v 160.168.208.235 `
+* ` Espagne :` `python2 drone.py -v 45.152.183.210  `
+* ` Kesteren :` `python2 drone.py -v 2.58.194.145  `
 ##  `Commande unique de Drone`:
 ```
-apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; python3 drone.py - v 192.165.2.3 
+apt update ; apt install git ; git clone https://github.com/Phantom-19/Drone.git ; cd Drone ; python2 drone.py - v 192.165.2.3 
 ```
 
 ## ` Aperçue > `
@@ -48,6 +48,7 @@ Cet outil est uniquement à des fins éducatives. Si vous utilisez cet outil à 
 ```
 
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
+
 ## `Retrouvez moi sur` :
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
 [![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL)
@@ -61,4 +62,5 @@ Cet outil est uniquement à des fins éducatives. Si vous utilisez cet outil à 
 [![Skyrock](https://img.shields.io/badge/Skyrock-%40Faxel-brown?logo=skyrock)](https://Faxel.skyrock.com/profil/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
+[![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
