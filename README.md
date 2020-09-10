@@ -12,9 +12,9 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-complète-green.svg?style=flat-square"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Drone??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Drone??color=red&style=flat-square"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/Drone?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Phantom-19/Drone/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Drone??color=red&style=flat-square"></a>
+<a href="https://github.com/Phantom-19/Drone/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Drone??color=red&style=flat-square"></a>
+<a href="https://github.com/Phantom-19/Drone/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/Drone?label=Watchers&color=blue&style=flat-square"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
@@ -63,4 +63,4 @@ Cet outil est uniquement à des fins éducatives. Si vous utilisez cet outil à 
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
 [![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/MIT)
